@@ -6,7 +6,7 @@ This repository contains code for a generic SAT solver to solve SAT problems in 
 ### Requirements
 Python 3, numpy
 
-### Description
+### Running Instructions
 For Windows:  
 Run "SAT.bat -Sn input_file.txt" in command prompt.  
 For Unix based systems:  
