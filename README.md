@@ -20,7 +20,7 @@ S3: Probabilistic Two-Sided Jeroslow-Wang Heuristic
 S4: Deterministic DLIS Heuristic  
 S5: Probabilistic DLIS Heuristic
 
-### Additional Notes:
+### Additional Notes
 For repeating our experiments mentioned in the report (if needed), please follow the following steps:
 1. run translate_examples.py under tests/ to encode all test cases in DIMACS format.
 2. run samples_tests.py under tests/ to sample test cases from different categories.
