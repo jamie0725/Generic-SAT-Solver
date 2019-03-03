@@ -7,17 +7,17 @@ This repository contains code for a generic SAT solver to solve SAT problems in 
 Python 3, numpy
 
 ### Description
-For Windows: 
-Run "SAT.bat -Sn input_file.txt" in command prompt.
-For Unix based systems:
+For Windows:  
+Run "SAT.bat -Sn input_file.txt" in command prompt.  
+For Unix based systems:  
 Run "sh SAT.sh -Sn input_file.txt" in the terminal.
 
 ### Description
-The following heuristics are implemented:
-S1: Random Heuristic
-S2: Deterministic Two-Sided Jeroslow-Wang Heuristic
-S3: Probabilistic Two-Sided Jeroslow-Wang Heuristic
-S4: Deterministic DLIS Heuristic
+The following heuristics are implemented:  
+S1: Random Heuristic  
+S2: Deterministic Two-Sided Jeroslow-Wang Heuristic  
+S3: Probabilistic Two-Sided Jeroslow-Wang Heuristic  
+S4: Deterministic DLIS Heuristic  
 S5: Probabilistic DLIS Heuristic
 
 ### Additional Notes:
